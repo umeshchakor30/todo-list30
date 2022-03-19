@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "full_name": "keri",
+      "mobile_num": "123456",
+      "email_id": "keri.anderson@gmail.com",
+      "password": "123456"
+    },
+    {
+      "full_name": "umesh chakor",
+      "mobile_num": "9049261203",
+      "email_id": "umesh@gmail.com",
+      "password": "123456"
+    },
+    {
+      "full_name": "smith",
+      "mobile_num": "9049261203",
+      "email_id": "umesh@gmail.com",
+      "password": "123456"
+    },
+    {
+      "full_name": "asdsad",
+      "mobile_num": "9049261203",
+      "email_id": "ke@gmail.com",
+      "password": "123456"
+    },
+    {
+      "full_name": "shane",
+      "mobile_num": "9049261203",
+      "email_id": "shane@gmail.com",
+      "password": "123456"
+    },
+    {
+      "full_name": "kity",
+      "mobile_num": "9049261203",
+      "email_id": "kity@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
